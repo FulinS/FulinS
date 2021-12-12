@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fulin
+- 👋 Hi, I’m Fulin
 - 👀 I’m interested in rickrolling people
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on nothing
